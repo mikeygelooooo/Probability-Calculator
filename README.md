@@ -25,10 +25,9 @@
 
 ## Technical Stack
 
-### 1. Development Framework
-- Python
+### 1. Frontend Technologies
+- Tkinter
+- CustomTkinter
 
-### 2. GUI Libraries
-- Tkinter  
-- CustomTkinter  
-- CTkTable
+### 2. Backend Technologies
+- Python
